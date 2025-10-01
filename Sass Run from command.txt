@@ -1,0 +1,6 @@
+on Command Prompt type
+
+sass assets/scss/main.scss assets/css/main.css
+
+
+
